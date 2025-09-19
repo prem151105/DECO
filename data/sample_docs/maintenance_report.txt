@@ -1,0 +1,33 @@
+KMRL Maintenance Report - Rolling Stock Unit
+
+Asset ID: TRAIN_001
+Date: February 10, 2024
+
+Maintenance Activity: Scheduled Inspection and Servicing
+
+Work Order: WO_2024_001
+
+Components Inspected:
+- Brake system: OK
+- Electrical systems: OK
+- Wheel alignment: Minor adjustment required
+- HVAC system: Filter replacement needed
+- Passenger doors: All functioning normally
+
+Issues Found:
+1. Wheel alignment deviation of 2mm - corrected
+2. Air conditioning filter clogged - replaced
+3. Minor oil leak in hydraulic system - sealed
+
+Next Scheduled Maintenance: March 10, 2024
+
+Technician: Rajesh Kumar
+Supervisor: Anil Menon
+
+Recommendations:
+- Increase inspection frequency for wheel alignment
+- Upgrade to higher quality air filters
+- Monitor hydraulic system for similar issues
+
+Status: Completed
+Total Downtime: 2 hours
