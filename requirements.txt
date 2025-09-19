@@ -7,8 +7,6 @@ networkx
 Pillow
 python-dotenv
 google-generativeai
-pydub
-audioop-lts
 pytesseract
 sentence-transformers
 Whoosh
